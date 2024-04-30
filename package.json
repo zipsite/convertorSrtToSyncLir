@@ -1,0 +1,13 @@
+{
+  "name": "srctolir",
+  "version": "1.0.0",
+  "description": "Converting from .src to .lir",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
